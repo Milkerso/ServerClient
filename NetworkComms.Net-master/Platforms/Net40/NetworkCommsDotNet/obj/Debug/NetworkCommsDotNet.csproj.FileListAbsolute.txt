@@ -1,0 +1,9 @@
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\NetworkCommsDotNet\bin\Debug\NetworkCommsDotNet.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\NetworkCommsDotNet\bin\Debug\NetworkCommsDotNet.pdb
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\NetworkCommsDotNet\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\NetworkCommsDotNet\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\NetworkCommsDotNet\obj\Debug\NetworkCommsDotNet.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\NetworkCommsDotNet\obj\Debug\NetworkCommsDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\NetworkCommsDotNet\obj\Debug\NetworkCommsDotNet.csproj.CopyComplete
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\NetworkCommsDotNet\obj\Debug\NetworkCommsDotNet.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\NetworkCommsDotNet\obj\Debug\NetworkCommsDotNet.pdb

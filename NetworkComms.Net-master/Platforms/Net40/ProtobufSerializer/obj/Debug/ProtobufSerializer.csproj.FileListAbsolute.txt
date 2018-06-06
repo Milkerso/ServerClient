@@ -1,0 +1,14 @@
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\bin\Debug\ProtobufSerializer.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\bin\Debug\ProtobufSerializer.pdb
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\bin\Debug\NetworkCommsDotNet.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\bin\Debug\protobuf-net.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\bin\Debug\NetworkCommsDotNet.pdb
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\bin\Debug\protobuf-net.pdb
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\bin\Debug\protobuf-net.xml
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\obj\Debug\ProtobufSerializer.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\obj\Debug\ProtobufSerializer.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\obj\Debug\ProtobufSerializer.csproj.CopyComplete
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\obj\Debug\ProtobufSerializer.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\ProtobufSerializer\obj\Debug\ProtobufSerializer.pdb

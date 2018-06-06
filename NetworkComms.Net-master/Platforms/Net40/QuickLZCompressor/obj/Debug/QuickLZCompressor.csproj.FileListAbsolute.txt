@@ -1,0 +1,11 @@
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\QuickLZCompressor\bin\Debug\QuickLZCompressor.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\QuickLZCompressor\bin\Debug\QuickLZCompressor.pdb
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\QuickLZCompressor\bin\Debug\NetworkCommsDotNet.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\QuickLZCompressor\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\QuickLZCompressor\bin\Debug\NetworkCommsDotNet.pdb
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\QuickLZCompressor\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\QuickLZCompressor\obj\Debug\QuickLZCompressor.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\QuickLZCompressor\obj\Debug\QuickLZCompressor.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\QuickLZCompressor\obj\Debug\QuickLZCompressor.csproj.CopyComplete
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\QuickLZCompressor\obj\Debug\QuickLZCompressor.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\QuickLZCompressor\obj\Debug\QuickLZCompressor.pdb

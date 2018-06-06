@@ -1,0 +1,12 @@
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\SharpZipLibCompressor\bin\Debug\SharpZipLibCompressor.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\SharpZipLibCompressor\bin\Debug\SharpZipLibCompressor.pdb
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\SharpZipLibCompressor\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\SharpZipLibCompressor\bin\Debug\NetworkCommsDotNet.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\SharpZipLibCompressor\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\SharpZipLibCompressor\bin\Debug\NetworkCommsDotNet.pdb
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\SharpZipLibCompressor\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\SharpZipLibCompressor\obj\Debug\SharpZipLibCompressor.csprojAssemblyReference.cache
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\SharpZipLibCompressor\obj\Debug\SharpZipLibCompressor.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\SharpZipLibCompressor\obj\Debug\SharpZipLibCompressor.csproj.CopyComplete
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\SharpZipLibCompressor\obj\Debug\SharpZipLibCompressor.dll
+C:\Users\Dawid\Desktop\New folder (2)\NetworkComms.Net-master\Platforms\Net40\SharpZipLibCompressor\obj\Debug\SharpZipLibCompressor.pdb
